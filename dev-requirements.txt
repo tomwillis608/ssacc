@@ -133,7 +133,7 @@ pytest-cov==2.11.1
     # via -r dev-requirements.in
 pytest-randomly==3.7.0
     # via -r dev-requirements.in
-pytest==6.2.3
+pytest==6.2.4
     # via
     #   -r dev-requirements.in
     #   pytest-cov
